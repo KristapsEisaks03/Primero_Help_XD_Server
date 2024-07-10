@@ -1,0 +1,17 @@
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_Help_XD_Server.csproj.AssemblyReference.cache
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_Help_XD_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_Help_XD_Server.AssemblyInfoInputs.cache
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_Help_XD_Server.AssemblyInfo.cs
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_Help_XD_Server.csproj.CoreCompileInputs.cache
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\bin\Debug\net8.0\Primero_Help_XD_Server.exe
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\bin\Debug\net8.0\Primero_Help_XD_Server.deps.json
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\bin\Debug\net8.0\Primero_Help_XD_Server.runtimeconfig.json
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\bin\Debug\net8.0\Primero_Help_XD_Server.dll
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\bin\Debug\net8.0\Primero_Help_XD_Server.pdb
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_.48E593E8.Up2Date
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_Help_XD_Server.dll
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\refint\Primero_Help_XD_Server.dll
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_Help_XD_Server.pdb
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\Primero_Help_XD_Server.genruntimeconfig.cache
+C:\Users\CrispsMistress\Documents\[mine\Coding\Github\Primero_Help_XD_Server\Primero_Help_XD_Server\obj\Debug\net8.0\ref\Primero_Help_XD_Server.dll
